@@ -29,7 +29,7 @@ Inside a HDD, there are several **platters**. On each platter, there are many **
 
 ![Image of Disk Components](./resources/DiskStructure.jpg)
 
-*Above figure is from https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html.*
+*Above figure is from https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/images/Chapter10/10_01_DiskMechanism.jpg.*
 
 ### Access Time
 The **access time** is the time to READ or WRITE a disk page. It is typically made up of 3 components:
