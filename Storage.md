@@ -1,4 +1,4 @@
-# CPSC 404 Chapter 1: Disk Storage
+Disk Storage
 ## Memory Hierarchy
 There are many levels of memories in a computer. Typically, the most common memory levels from *fastest/smallest/most expensive* to *slowest/largest/cheapest* are:
 
