@@ -67,7 +67,7 @@ $$\lceil{\frac{n \times record \ size}{B}}\rceil < B - 1$$
 If this requirement is not satisfied, then more passes are needed and more time will be required. With **cylindrification** and **prefetching** discussed below, if more than 1 pass is needed for phase 2, the approximate total time for phase 2 will be $(number \ of \ pass \times \ time \ per \ pass)$.
 
 ### Cylindrification, Prefetching, and Double Buffering
-There are some further tricks to optimize the algorithm even better:
+There are some tricks to optimize the algorithm even better:
 
 - Cylindrification:
   
